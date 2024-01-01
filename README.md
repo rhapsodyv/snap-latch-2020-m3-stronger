@@ -35,5 +35,5 @@ It allows to apply far more pressure to the panels without any plastic fadigue.
 - [x] Corner for 3mm foam tape
 - [x] Corner for 1mm foam tape
 - [x] Snap Latch for 3mm foam tape
-- [ ] Snap Latch for 1mm foam tape
+- [x] Snap Latch for 1mm foam tape
 - [ ] Door hinges
