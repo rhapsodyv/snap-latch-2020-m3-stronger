@@ -3,7 +3,7 @@
 ![Snap Latch Pressure](Images/pressure.png)
 
 > [!TIP]
-> *Because any voron builder has tons of spare M3!*
+> *Because any voron builder has tons of spare M3 screws!*
 
 This repo is based in the amazing works from:
 
