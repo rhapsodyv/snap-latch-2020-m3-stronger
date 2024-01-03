@@ -5,6 +5,14 @@
 > [!TIP]
 > *Because any voron builder has tons of spare M3 screws!*
 
+You will find here a set STL to make all the panels of your voron removable:
+ - Strong Snap Latch for better insulation
+ - Corner for the panels that works with snap latch
+ - Exhaust Cover with no screws, to use with snap latch
+ - Removable Doors
+
+# Original Designs
+
 This repo is based in the amazing works from:
 
  - Original Snap Latch: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020
@@ -36,4 +44,7 @@ It allows to apply far more pressure to the panels without any plastic fadigue.
 - [x] Corner for 1mm foam tape
 - [x] Snap Latch for 3mm foam tape
 - [x] Snap Latch for 1mm foam tape
+- [x] Smaller Snap Latch for 3mm foam tape
+- [x] Smaller Snap Latch for 1mm foam tape
+- [x] Exhaust Cover with no screws, to use with snap latch
 - [ ] Door hinges
