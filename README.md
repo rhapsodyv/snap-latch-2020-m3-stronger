@@ -38,7 +38,7 @@ I found the current designs a little weak too, to really squish and insulate the
 It allows to apply far more pressure to the panels without any plastic fadigue.
 - I modified the corners for QD Panel Mod to fit better. The original design didn't hold strong in the frames for me.
 
-# TODO:
+# STL:
 
 - [x] Corner for 3mm foam tape
 - [x] Corner for 1mm foam tape
@@ -47,4 +47,4 @@ It allows to apply far more pressure to the panels without any plastic fadigue.
 - [x] Smaller Snap Latch for 3mm foam tape
 - [x] Smaller Snap Latch for 1mm foam tape
 - [x] Exhaust Cover with no screws, to use with snap latch
-- [ ] Door hinges
+- [x] Door hinges
