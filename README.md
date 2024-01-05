@@ -2,6 +2,8 @@
 
 ![Snap Latch Pressure](Images/pressure.png)
 
+![Door Hinges Snap Latch](Images/door_hinge.png)
+
 > [!TIP]
 > *Because any voron builder has tons of spare M3 screws!*
 
